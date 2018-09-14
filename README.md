@@ -4,12 +4,12 @@ These scripts are for viewing the pre and post configuration of a linux system p
 
 **The main.sh file has the following utilities:-**
 
-1.) Run a script to find the current configuration of the system preceding the update of packages. The data is stored in the txt file in the directory "data1". The filename is of the format of current date and time. <br />
+1.) Run a script to find the current configuration of the system preceding the update of packages. The data is stored in the txt file in the directory "data1" (Custom Directory). The filename is of the format of current date and time. <br />
     -----> ./pre.sh<br />
 
 2.) Apply update to all the packages in the system.<br />
 
-3.) Run a script to find the configuration of the system post the update of packages. The data is stored in the txt file in the directory "data2". The filename is of the format of current date and time.<br />
+3.) Run a script to find the configuration of the system post the update of packages. The data is stored in the txt file in the directory "data2" (Custom Directory). The filename is of the format of current date and time.<br />
     ----->./post.sh<br />
 
 4.) Run a script to find the difference between the system configuration pre and post the update of packages.<br />
