@@ -27,4 +27,5 @@ These scripts are for viewing the pre and post configuration of a linux system p
 **NOTE:-**<br />
 
 1.) Code is designed for Red Hat Linux. It can be optimised for other distributions of linux<br />
-2.) System details in the pre and post text files can be edited according to the user's requirements.
+2.) System details in the pre and post text files can be edited according to the user's requirements.<br />
+3.) User needs to have sudo permission to execute these bash files.
